@@ -1,0 +1,38 @@
+#form-thanhtoan
+{
+    background-color: #e4e3e3;
+}
+.input-item {
+    margin-top: 10px;
+    margin-left: -10px;
+}
+.input-item input {
+    width: 97%;
+}
+#form-thanhtoan button {
+    background-color: black;
+    width: 200px;
+    margin-left: 150px;
+    color: white;
+}
+
+.product-total{
+    padding-left: 40px;
+}
+.product_quantity
+{
+    padding-left: 10px;
+}
+.form_tongtien
+{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.title_tongtien
+{
+    padding-right: 50px;
+}
+
+
